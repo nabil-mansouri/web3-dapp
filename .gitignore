@@ -1,0 +1,12 @@
+contract/cache/
+node_modules/
+.next/cache/
+.next/static/
+*/.next/cache/
+*/.next/static/
+**/.next/cache/
+**/.next/static/
+dist/
+*/npm-debug.log
+contract/secret.mainnet.json
+contract/secret.testnet.json
